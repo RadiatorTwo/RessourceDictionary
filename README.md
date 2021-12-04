@@ -1,0 +1,1 @@
+Test project for bitmap ressource in App.xaml.
